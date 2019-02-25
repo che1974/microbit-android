@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

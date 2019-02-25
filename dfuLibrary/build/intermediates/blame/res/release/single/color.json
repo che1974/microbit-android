@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/color/abc_primary_text_material_light.xml"
+    }
+]

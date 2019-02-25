@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pkozlov/Projects/CHE1974/Research/microbit/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d4d3e769fc17aaa8e0e993a3fe4a3421/res/values-w600dp/values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "290,354",
+                        "endColumns": "63,54",
+                        "endOffsets": "349,404"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

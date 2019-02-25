@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/values-w720dp/values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "278",
+                        "endColumns": "76",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/pkozlov/Projects/CHE1974/Research/microbit/dfuLibrary/build/intermediates/res/merged/release/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/pkozlov/.gradle/caches/transforms-2/files-2.1/d6121bae9256810a6c4540fdefe8de70/res/values-w720dp/values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "278",
+                        "endColumns": "76",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Feb 12 08:55:15 EET 2019
+base.0=/home/pkozlov/Projects/CHE1974/Research/microbit/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
